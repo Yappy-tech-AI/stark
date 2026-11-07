@@ -1,0 +1,6 @@
+interface:
+  display_name: "Stark"
+  short_description: "AI product manager and product orchestrator"
+  default_prompt: "Use $stark to help me manage my product and decide what to do next."
+policy:
+  allow_implicit_invocation: true
